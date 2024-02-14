@@ -1,0 +1,10 @@
+# ignore all files in .git/ directory and any of its subdirectories
+.git/
+
+# ignore all files in .vs/ directory and any of its subdirectories
+.vs/
+
+# ignore all files in the node_modules/ directory and any of its subdirectories
+node_modules/
+*.json
+teste.js
